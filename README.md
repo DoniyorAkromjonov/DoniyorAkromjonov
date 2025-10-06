@@ -18,3 +18,6 @@
 ![Kivy](https://img.shields.io/badge/-Kivy-090909?style=for-the-badge&logo=kivy)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgresSQL)
 ![SQLite](https://img.shields.io/badge/-SQLite-090909?style=for-the-badge&logo=SQLite)
+
+### Follow me
+![[Telegram](https://t.me/WayToReachGoals)](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)
